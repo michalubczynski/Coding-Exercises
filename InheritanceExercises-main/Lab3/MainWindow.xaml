@@ -1,0 +1,18 @@
+﻿<Window x:Class="Lab3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="117*"/>
+            <ColumnDefinition Width="43*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnZadanieA" Content="ZadanieA" HorizontalAlignment="Left" Margin="131,374,0,0" VerticalAlignment="Top" Grid.Column="1" Click="btnZadanieA_Click"/>
+        <ListBox x:Name="lstBoxZadA" d:ItemsSource="{d:SampleData ItemCount=5}" Width="400" Height="400" Grid.ColumnSpan="2" Margin="200,17,200,17"/>
+
+    </Grid>
+</Window>

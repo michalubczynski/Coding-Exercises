@@ -1,0 +1,17 @@
+﻿<Window x:Class="lab2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lstboxKontrolka" d:ItemsSource="{d:SampleData ItemCount=5}" Width="200" Height="200" Margin="79,63,521,171" Background="#FFEF8585"/>
+        <Button x:Name="btnlicz" Content="licz" HorizontalAlignment="Left" Margin="612,306,0,0" VerticalAlignment="Top" Click="btnlicz_Click"/>
+        <RadioButton x:Name="rdioSuma" Content="Suma" HorizontalAlignment="Left" Margin="494,86,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rdioMin" Content="Minimum" HorizontalAlignment="Left" Margin="494,106,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rdioMaks" Content="Maksimum" HorizontalAlignment="Left" Margin="494,126,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

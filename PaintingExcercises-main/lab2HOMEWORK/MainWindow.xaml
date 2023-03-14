@@ -1,0 +1,16 @@
+﻿<Window x:Class="lab2HOMEWORK.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab2HOMEWORK"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="1200">
+    <Grid>
+        <Canvas x:Name="cnvPlotno" Width="500" Height="400" Background="#FFF1D5D5" Margin="561,67,139,67"/>
+        <Button x:Name="btnClick" Content="CLICK" HorizontalAlignment="Left" Margin="467,67,0,0" VerticalAlignment="Top" Click="btnClick_Click"/>
+        <ListBox x:Name="lstBox" d:ItemsSource="{d:SampleData ItemCount=5}" Width="400" Height="400" Margin="24,67,776,67"/>
+        <Button x:Name="btnJagged" Content="CLICKJAGGED" HorizontalAlignment="Left" Margin="446,138,0,0" VerticalAlignment="Top" Click="btnJagged_Click"/>
+
+    </Grid>
+</Window>

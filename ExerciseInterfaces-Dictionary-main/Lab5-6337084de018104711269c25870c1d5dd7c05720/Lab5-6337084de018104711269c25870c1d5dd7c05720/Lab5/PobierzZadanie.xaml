@@ -1,0 +1,14 @@
+﻿<Window x:Class="Lab5.PobierzZadanie"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab5"
+        mc:Ignorable="d"
+        Title="PobierzZadanie" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="txtZadanieDoWypisania" Content="Twe zadanie mój Panie:&#xD;&#xA;" HorizontalAlignment="Left" Margin="181,119,0,0" VerticalAlignment="Top" Height="40"/>
+        <Button x:Name="btnOK" Content="OK" HorizontalAlignment="Left" Margin="515,288,0,0" VerticalAlignment="Top" Click="btnOK_Click"/>
+
+    </Grid>
+</Window>

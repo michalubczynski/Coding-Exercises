@@ -1,0 +1,12 @@
+C:\Users\Majkel\source\repos\Lab3\Motoryzacja\bin\Debug\Motoryzacja.dll
+C:\Users\Majkel\source\repos\Lab3\Motoryzacja\bin\Debug\Motoryzacja.pdb
+C:\Users\Majkel\source\repos\Lab3\Motoryzacja\obj\Debug\Motoryzacja.csproj.AssemblyReference.cache
+C:\Users\Majkel\source\repos\Lab3\Motoryzacja\obj\Debug\Motoryzacja.csproj.CoreCompileInputs.cache
+C:\Users\Majkel\source\repos\Lab3\Motoryzacja\obj\Debug\Motoryzacja.dll
+C:\Users\Majkel\source\repos\Lab3\Motoryzacja\obj\Debug\Motoryzacja.pdb
+C:\Users\micha\Documents\GitHub\Lab3\Motoryzacja\bin\Debug\Motoryzacja.dll
+C:\Users\micha\Documents\GitHub\Lab3\Motoryzacja\bin\Debug\Motoryzacja.pdb
+C:\Users\micha\Documents\GitHub\Lab3\Motoryzacja\obj\Debug\Motoryzacja.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\GitHub\Lab3\Motoryzacja\obj\Debug\Motoryzacja.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\GitHub\Lab3\Motoryzacja\obj\Debug\Motoryzacja.dll
+C:\Users\micha\Documents\GitHub\Lab3\Motoryzacja\obj\Debug\Motoryzacja.pdb

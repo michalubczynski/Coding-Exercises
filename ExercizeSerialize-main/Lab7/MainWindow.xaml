@@ -1,0 +1,25 @@
+﻿<Window x:Class="Lab7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnIO" Content="Melduj" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="btnIO_Click"/>
+        <ListBox x:Name="lstLiczby" d:ItemsSource="{d:SampleData ItemCount=5}" Width="400" Height="300" Margin="390,67,10,67"/>
+        <Button x:Name="btnCzytaj" Content="Czytej" HorizontalAlignment="Left" Margin="310,352,0,0" VerticalAlignment="Top" Click="btnCzytaj_Click"/>
+        <Label x:Name="lblMaksMin" Content="Tu sr, max, min:" HorizontalAlignment="Left" Margin="390,36,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnZapiszXml" Content="SAVE XML" HorizontalAlignment="Left" Margin="30,81,0,0" VerticalAlignment="Top" Click="btnZapiszXml_Click"/>
+        <Button x:Name="btnWczytXml" Content="WczytajXML" HorizontalAlignment="Left" Margin="30,125,0,0" VerticalAlignment="Top" Click="btnWczytXml_Click"/>
+        <Button x:Name="btnWyswietlGrupy" Content="Wyswietl Grupy" HorizontalAlignment="Left" Margin="285,390,0,0" VerticalAlignment="Top" Click="btnWyswietlGrupy_Click"/>
+        <Button x:Name="btnSaveBin" Content="SAVE Bin" HorizontalAlignment="Left" Margin="143,81,0,0" VerticalAlignment="Top" Click="btnSaveBin_Click"/>
+        <Button x:Name="btnWczytBin" Content="Wczytaj Bin" HorizontalAlignment="Left" Margin="143,125,0,0" VerticalAlignment="Top" Click="btnWczytBin_Click"/>
+        <Button x:Name="btnSaveJson" Content="SAVE JSON" HorizontalAlignment="Left" Margin="252,81,0,0" VerticalAlignment="Top" Click="btnSaveJson_Click"/>
+        <Button x:Name="btnWczytJson" Content="Wczytaj Json" HorizontalAlignment="Left" Margin="252,125,0,0" VerticalAlignment="Top" Click="btnWczytJson_Click"/>
+        <Button x:Name="btnSaveRecznie" Content="Zapisz Recznie TXT" HorizontalAlignment="Left" Margin="116,176,0,0" VerticalAlignment="Top" Click="btnSaveRecznie_Click"/>
+        <Button x:Name="btnWczytajExe" Content="WCZYTAJEXE" HorizontalAlignment="Left" Margin="143,304,0,0" VerticalAlignment="Top" Click="btnWczytajExe_Click"/>
+
+    </Grid>
+</Window>

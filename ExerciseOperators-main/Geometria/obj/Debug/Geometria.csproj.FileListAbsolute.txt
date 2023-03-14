@@ -1,0 +1,12 @@
+C:\Users\micha\Documents\GitHub\Lab4\Geometria\bin\Debug\Geometria.dll
+C:\Users\micha\Documents\GitHub\Lab4\Geometria\bin\Debug\Geometria.pdb
+C:\Users\micha\Documents\GitHub\Lab4\Geometria\obj\Debug\Geometria.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\GitHub\Lab4\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\GitHub\Lab4\Geometria\obj\Debug\Geometria.dll
+C:\Users\micha\Documents\GitHub\Lab4\Geometria\obj\Debug\Geometria.pdb
+C:\Users\Majkel\Documents\GitHub\Lab4\Geometria\bin\Debug\Geometria.dll
+C:\Users\Majkel\Documents\GitHub\Lab4\Geometria\bin\Debug\Geometria.pdb
+C:\Users\Majkel\Documents\GitHub\Lab4\Geometria\obj\Debug\Geometria.csproj.AssemblyReference.cache
+C:\Users\Majkel\Documents\GitHub\Lab4\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Majkel\Documents\GitHub\Lab4\Geometria\obj\Debug\Geometria.dll
+C:\Users\Majkel\Documents\GitHub\Lab4\Geometria\obj\Debug\Geometria.pdb

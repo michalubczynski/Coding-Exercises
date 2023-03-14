@@ -1,0 +1,12 @@
+C:\Users\micha\Documents\GitHub\Lab6\Sprzedaz\bin\Debug\Sprzedaz.dll
+C:\Users\micha\Documents\GitHub\Lab6\Sprzedaz\bin\Debug\Sprzedaz.pdb
+C:\Users\micha\Documents\GitHub\Lab6\Sprzedaz\obj\Debug\Sprzedaz.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\GitHub\Lab6\Sprzedaz\obj\Debug\Sprzedaz.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\GitHub\Lab6\Sprzedaz\obj\Debug\Sprzedaz.dll
+C:\Users\micha\Documents\GitHub\Lab6\Sprzedaz\obj\Debug\Sprzedaz.pdb
+C:\Users\Majkel\Documents\GitHub\Lab6\Sprzedaz\bin\Debug\Sprzedaz.dll
+C:\Users\Majkel\Documents\GitHub\Lab6\Sprzedaz\bin\Debug\Sprzedaz.pdb
+C:\Users\Majkel\Documents\GitHub\Lab6\Sprzedaz\obj\Debug\Sprzedaz.csproj.AssemblyReference.cache
+C:\Users\Majkel\Documents\GitHub\Lab6\Sprzedaz\obj\Debug\Sprzedaz.csproj.CoreCompileInputs.cache
+C:\Users\Majkel\Documents\GitHub\Lab6\Sprzedaz\obj\Debug\Sprzedaz.dll
+C:\Users\Majkel\Documents\GitHub\Lab6\Sprzedaz\obj\Debug\Sprzedaz.pdb

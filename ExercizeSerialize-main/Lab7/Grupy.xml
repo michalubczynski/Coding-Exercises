@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Grupa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NAzwaGrupy>I12</NAzwaGrupy>
+  <Students>
+    <Student Ocena="4">
+      <NazwiskoStudenta>Majdan</NazwiskoStudenta>
+    </Student>
+    <Student Ocena="5">
+      <NazwiskoStudenta>Wajdan</NazwiskoStudenta>
+    </Student>
+    <Student Ocena="3">
+      <NazwiskoStudenta>Kajdan</NazwiskoStudenta>
+    </Student>
+  </Students>
+</Grupa>
